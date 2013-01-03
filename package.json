@@ -20,7 +20,7 @@
     "node": "*"
   },
   "dependencies": {
-    "validator": "0.4.12"
+    "validator": "git://github.com/mfrobben/node-validator.git"
   },
   "devDependencies": {
     "async": "~0.1.22",
